@@ -1,0 +1,8 @@
+id	bayer_id	project	text	link	data_send	time_send	sender
+1	1	favbet	any text message	any link	2023-06-30	19:00:00	sender name
+2	1	slotoking	any text message	any link	2023-06-30	19:00:00	sender name
+3	2	favbet	any text message	any link	2023-06-30	19:05:00	sender name
+4	2	slotoking	any text message	any link	2023-06-30	19:05:00	sender name
+5	3	favbet	any text message	any link	2023-06-30	19:15:00	sender name
+6	3	slotoking	any text message	any link	2023-06-30	19:15:00	sender name
+7	3	parimatch	any text message	any link	2023-06-30	19:15:00	sender name
